@@ -1,1 +1,1 @@
-# Vedha-wellness-website
+This repository contains the front-end source code for VedhaGuide.com, a digital platform dedicated to preserving and sharing the 5,000-year-old healing system of Ayurveda. The site provides comprehensive resources to help users harmonize mind, body, and spirit on their journey toward optimal health and vitality.
